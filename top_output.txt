@@ -1,0 +1,37 @@
+top - 22:50:23 up 2 min,  1 user,  load average: 0.19, 0.16, 0.06
+Tasks:  30 total,   1 running,  29 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7667.9 total,   6395.2 free,    741.1 used,    769.6 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6926.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   22200  13208   9480 S   0.0   0.2   0:01.51 systemd
+      2 root      20   0    2776   1920   1796 S   0.0   0.0   0:00.00 init-sy+
+      8 root      20   0    2776      4      0 S   0.0   0.0   0:00.00 init
+     43 root      19  -1   42240  16348  15212 S   0.0   0.2   0:00.17 systemd+
+     88 root      20   0   23992   6120   4912 S   0.0   0.1   0:00.17 systemd+
+    140 systemd+  20   0   21456  11940   9744 S   0.0   0.2   0:00.11 systemd+
+    141 systemd+  20   0   91024   6420   5572 S   0.0   0.1   0:00.06 systemd+
+    147 root      20   0    4236   2608   2364 S   0.0   0.0   0:00.00 cron
+    148 message+  20   0    9632   5248   4552 S   0.0   0.1   0:00.19 dbus-da+
+    165 root      20   0   17980   8236   7212 S   0.0   0.1   0:00.13 systemd+
+    172 root      20   0 1756096  15896   9304 S   0.0   0.2   0:00.08 wsl-pro+
+    182 root      20   0    3160   1184   1100 S   0.0   0.0   0:00.00 agetty
+    202 syslog    20   0  222508  11404   4416 S   0.0   0.1   0:00.08 rsyslogd
+    218 root      20   0    3116   1156   1064 S   0.0   0.0   0:00.00 agetty
+    226 root      20   0  107012  22272  12936 S   0.0   0.3   0:00.11 unatten+
+    349 root      20   0    2784    204     80 S   0.0   0.0   0:00.00 Session+
+    350 root      20   0    2784    212     80 S   0.0   0.0   0:00.02 Relay(3+
+    351 harsh     20   0    6072   5396   3664 S   0.0   0.1   0:00.07 bash
+    352 root      20   0    6824   4632   3844 S   0.0   0.1   0:00.00 login
+    438 harsh     20   0   20268  11472   9388 S   0.0   0.1   0:00.11 systemd
+    443 harsh     20   0   21152   1728      0 S   0.0   0.0   0:00.00 (sd-pam)
+    456 harsh     20   0    6072   5148   3516 S   0.0   0.1   0:00.01 bash
+    531 root      20   0   40564  29472  15172 S   0.0   0.4   0:00.19 python3
+    537 _apt      20   0   27964  18260   9556 S   0.0   0.2   0:00.04 https
+    763 root      20   0  370088  22676  17716 S   0.0   0.3   0:00.02 package+
+    768 polkitd   20   0  308164   7916   7060 S   0.0   0.1   0:00.07 polkitd
+   1273 root      20   0   23996   3204   1992 S   0.0   0.0   0:00.00 (udev-w+
+   1274 root      20   0   23996   3208   1996 S   0.0   0.0   0:00.00 (udev-w+
+   1275 root      20   0   23996   3272   2060 S   0.0   0.0   0:00.00 (udev-w+
+   1276 harsh     20   0    9288   4912   3016 R   0.0   0.1   0:00.00 top

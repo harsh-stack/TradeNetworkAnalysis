@@ -1,0 +1,190 @@
+Linux 5.15.167.4-microsoft-standard-WSL2 (MyPC) 	11/04/25 	_x86_64_	(22 CPU)
+
+23:11:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:11:20     1000      3509    1.00    0.00    0.00    0.00    1.00     0  pidstat
+
+23:11:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:11:23        0        43    1.00    0.00    0.00    0.00    1.00    11  systemd-journal
+23:11:23        0       172    0.00    1.00    0.00    0.00    1.00     2  wsl-pro-service
+
+23:11:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:11:26     1000      3509    1.00    0.00    0.00    0.00    1.00     0  pidstat
+
+23:11:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:11:36     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:11:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:11:42     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:11:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:11:48     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:11:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:11:56     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:11:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:11:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:01     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:12:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:08     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:12:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:14     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:12:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:20     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:12:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:26        0       172    1.00    0.00    0.00    0.00    1.00     2  wsl-pro-service
+
+23:12:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:28     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:12:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:29        0        43    0.00    1.00    0.00    0.00    1.00    11  systemd-journal
+23:12:29        0        88    0.00    2.00    0.00    0.00    2.00    19  systemd-udevd
+23:12:29        0      3510    1.00    3.00    0.00    0.00    4.00     3  (udev-worker)
+23:12:29        0      3511    1.00    0.00    0.00    0.00    1.00    18  (udev-worker)
+
+23:12:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:33        0        88    0.00    1.00    0.00    0.00    1.00    19  systemd-udevd
+23:12:33     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:12:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+23:12:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:40     1000      3509    0.00    1.00    0.00    0.00    1.00     0  pidstat
+
+23:12:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+23:12:41        0        88    0.00    1.00    0.00    0.00    1.00    19  systemd-udevd
+23:12:41     1000      3509    1.00    0.00    0.00    0.00    1.00     0  pidstat
+
+23:12:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0        43    0.01    0.01    0.00    0.00    0.02     -  systemd-journal
+Average:        0        88    0.00    0.05    0.00    0.00    0.05     -  systemd-udevd
+Average:        0       172    0.01    0.01    0.00    0.00    0.02     -  wsl-pro-service
+Average:     1000      3509    0.04    0.14    0.00    0.00    0.17     -  pidstat

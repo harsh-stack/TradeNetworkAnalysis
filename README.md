@@ -1,8 +1,5 @@
-Global Trade Network Analysis (1988–2022)
-[
-[
-[
-[
+## Global Trade Network Analysis (1988–2022)
+
 
 MS Data Science Thesis at University of Massachusetts Dartmouth (Prof. Firas Khatib). Comprehensive analysis of global trade network evolution (1988–2023) using UN Comtrade HS0 data, testing small-world properties, scale-free structure, hubs, communities, and resilience across 35+ years.
 

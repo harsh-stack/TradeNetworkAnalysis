@@ -1,4 +1,4 @@
-## Global Trade Network Analysis (1988–2022)
+# Global Trade Network Analysis (1988–2022)
 
 
 MS Data Science Thesis at University of Massachusetts Dartmouth (Prof. Firas Khatib). Comprehensive analysis of global trade network evolution (1988–2023) using UN Comtrade HS0 data, testing small-world properties, scale-free structure, hubs, communities, and resilience across 35+ years.
@@ -53,16 +53,16 @@ Full results: results/-Hypothesis-Status-KeyResult.csv
 
 ▶️ Quick Start
 bash
-# Clone
+## Clone
 git clone https://github.com/harsh-stack/TradeNetworkAnalysis.git
 cd TradeNetworkAnalysis
 
-# Environment
+## Environment
 conda create -n trade-net python=3.10 -y
 conda activate trade-net
 pip install pandas networkx matplotlib seaborn jupyter scipy
 
-# Run analysis
+## Run analysis
 jupyter notebook CodeWith2022.ipynb
 Data: Sample files in data/processed/ run immediately. Full dataset in data/raw/ ZIPs.
 

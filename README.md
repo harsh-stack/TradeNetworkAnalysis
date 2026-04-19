@@ -97,7 +97,7 @@ text
 Malviya, H. (2026). Global Trade Network Structure and Resilience: 
 Small-World Properties and Shock Propagation (1988–2022). 
 Master's Thesis, University of Massachusetts Dartmouth.
-DOI: [Zenodo forthcoming] | GitHub: harsh-stack/TradeNetworkAnalysis
+GitHub: harsh-stack/TradeNetworkAnalysis
 Author
 Harsh Malviya
 MS Data Science Candidate | Geospatial & Network Analytics
